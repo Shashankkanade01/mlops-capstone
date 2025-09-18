@@ -6,6 +6,7 @@ import joblib
 import mlflow
 import mlflow.sklearn
 
+
 def main():
     # Set experiment name (instead of "Default")
     mlflow.set_tracking_uri("sqlite:///mlflow.db")
@@ -57,6 +58,7 @@ def main():
             name="linear_regression_model",
             input_example=input_example
         )
+
 
 if __name__ == "__main__":
     main()
