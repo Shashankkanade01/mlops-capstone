@@ -1,0 +1,7 @@
+2025-09-18 20:40:44,987 - ERROR - Prediction failed: input=-2000.0, error=Area must be positive
+2025-09-18 20:40:59,136 - INFO - Prediction successful: input=234.0, output=11.080367904051283
+2025-09-18 20:41:04,155 - ERROR - Prediction failed: input=-1323.0, error=Area must be positive
+2025-09-18 20:43:35,755 - INFO - Prediction successful: input=90, output=44.73
+2025-09-18 20:43:52,627 - INFO - Prediction successful: input=40, output=81.17
+2025-09-18 20:44:08,630 - INFO - Prediction successful: input=66, output=55.91
+2025-09-18 20:44:24,601 - INFO - Prediction successful: input=12, output=99.40
